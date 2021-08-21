@@ -1,0 +1,188 @@
+Author: Colt Steele
+
+Resources:
+
+	1. Slides for 1st section:
+https://www.canva.com/design/DAETQyFE6pM/mLt1oYF8gP_mqBS3ghb-BA/view?utm_content=DAETQyFE6pM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+	2. Git Documentation:
+https://git-scm.com/
+
+	3. StackShare:
+https://stackshare.io/git
+
+	4. Git Government Community :
+https://government.github.com/community/
+
+	5. TextBook Return with Git: 
+https://github.com/HoTT/book
+
+	6. List of GitClient (Editors):
+https://git-scm.com/downloads/guis
+
+	7. Download Git for Windows:
+https://git-scm.com/download/win
+
+	8. VisualStudio  as Code editor for GIT:
+https://code.visualstudio.com/
+
+	9. Git Editor Config Commands
+https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config
+	
+	10. Mac Git download:
+https://sourceforge.net/projects/git-osx-installer/
+
+	10. Git Kraken:
+https://www.gitkraken.com/
+
+	11. Git init doc:
+https://git-scm.com/docs/git-init
+
+	12. Git Status Docs:
+https://git-scm.com/docs/git-status
+
+	13. Git Add Docs:
+https://git-scm.com/docs/git-add
+
+	14. Git Commit Docs:
+https://git-scm.com/docs/git-commit
+
+15. Git log Docs:
+https://git-scm.com/docs/git-log
+
+	16. Git commiting Basic Exercise:
+https://www.notion.so/Committing-Basics-Exercise-3dc1ef1873ce45e68cedd2265710d7d8
+
+	17. Git References:
+https://git-scm.com/docs
+
+	18. All about gitigonre
+https://www.toptal.com/developers/gitignore
+
+	19. Git ignore doc:
+https://git-scm.com/docs/gitignore
+
+	20. GitHub docs on gitignore:
+https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+	21. Git Branch doc:
+https://git-scm.com/docs/git-branch
+
+	22. Git Switch doc:
+https://git-scm.com/docs/git-switch
+
+	23. Git Checkout doc:
+https://git-scm.com/docs/git-checkout
+
+	24. Git Merge doc:
+https://git-scm.com/docs/git-merge
+
+	25. Git Diff doc:
+https://git-scm.com/docs/git-diff
+
+	26. Git stash doc:
+https://git-scm.com/docs/git-stash
+
+	27. Git Restore doc:
+https://git-scm.com/docs/git-restore
+
+	28. Git Reset doc:
+https://git-scm.com/docs/git-reset
+
+	29. Git Restore doc:
+https://git-scm.com/docs/git-revert
+
+	30. Git Revert doc:
+https://git-scm.com/docs/git-revert
+
+	31. GitHub Homepage:
+https://github.com/
+
+	32. React GitHub Repo:
+https://github.com/facebook/react
+
+	33. Git Clone doc:
+https://git-scm.com/docs/git-clone
+
+	34. GitHub 2048 Repo:
+https://github.com/gabrielecirulli/2048
+
+	35. Hiring Without Whiteboard repo:
+https://github.com/poteto/hiring-without-whiteboards
+
+	36. GitHub SSH config doc:
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
+	37. Git Push doc:
+https://git-scm.com/docs/git-push
+
+	38. Colt Repo:
+https://github.com/Colt
+
+	39. RemoteBranches Demo:
+https://github.com/Colt/remote-branches-demo
+
+	40. Readme demo 1:
+https://github.com/jasontaylordev/CleanArchitecture
+
+	41. Readme demo 2:
+https://github.com/explosion/spaCy
+
+	42. Readme demo 3:
+https://github.com/facebook/react
+
+	43. MarkDown doc:
+https://daringfireball.net/projects/markdown/
+
+	44. MarkDown it GitHub page (Convert text to markdown):
+https://markdown-it.github.io/
+
+	45. GitHub Gists discover page:
+https://gist.github.com/discover
+
+	46. Gists copied from(Use GitHub with multiple accounts):
+https://gist.github.com/oanhnn/80a89405ab9023894df7
+
+	47. GitHub Pages:
+https://pages.github.com/
+
+	48. Git Chickens:
+https://colt.github.io/chickens/
+
+	49. Git Rebase doc:
+https://git-scm.com/docs/git-rebase
+
+	50. Interactive Rebase demo/excercise:
+https://github.com/Colt/interactive-rebase-demo
+
+	51. Git Semantic Versioning:
+https://semver.org/
+
+	52. Demo Boostrap Release:
+https://getbootstrap.com/docs/versions/
+
+53 . Demo React Release versions semantic:
+https://reactjs.org/versions/
+
+	54. Git Tag doc:
+https://git-scm.com/docs/git-tag
+
+	55. Demo Git Tag - react repo:
+https://github.com/facebook/react
+
+	56. Git Config doc:
+https://git-scm.com/docs/git-config
+
+	57. SHA-1 demo:
+https://linkgod.github.io/SHA-1/
+
+	58. Git-Hash-Object doc: 
+https://git-scm.com/docs/git-hash-object
+
+	59. Git-Cat-File doc:
+https://git-scm.com/docs/git-cat-file
+
+	60. Git-Ref-Log doc:
+https://git-scm.com/docs/git-reflog
+
+
